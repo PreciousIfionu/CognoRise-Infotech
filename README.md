@@ -89,12 +89,33 @@ The labor participation rate fluctuated significantly between July 2019 and May 
 
 
 
+
+
+
 2. #### Unemployment Rate by Year
    ##### Visualization: Line Chart
-   
-   #### Analysis:
+
+#### Analysis:
 The unemployment rate exhibited a sharp increase at the beginning of 2020, correlating with the economic impact of COVID-19. This spike reflects the significant job losses and reduction in economic activities during the early months of the pandemic. A gradual decline is observed post-April 2020, suggesting a slow recovery in employment as restrictions eased and economic activities resumed.
+
+
+
 
 
 ![Screenshot (100)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/aeeddba3-ec26-43da-82d9-a92d5e714d38)
 
+
+
+
+
+
+
+3. #### Employment and Labor Participation by Date
+##### Visualization: Combined Bar and Line Chart
+
+#### Analysis:
+This visualization integrates the total estimated number of employed individuals (represented by bars) with the average labor participation rate (depicted by a line). Notably, there is a significant decline in labor participation around November 2019, attributed to the onset of the COVID-19 pandemic, which led to widespread workforce withdrawals. Correspondingly, the employment rate experienced a sharp decrease post-November, followed by a brief recovery and another decline in early 2020. However, in June 2020, there was a slight uptick in both the employment rate and labor participation rate. This pattern highlights a strong correlation between employment levels and labor market engagement, underscoring the pandemic's profound impact on labor market dynamics.
+
+
+
+![Screenshot (101)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/ce0ad6c7-6d3c-4d5f-a8f1-5aa4e0290f45)
