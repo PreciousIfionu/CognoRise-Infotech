@@ -119,3 +119,14 @@ This visualization integrates the total estimated number of employed individuals
 
 
 ![Screenshot (101)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/ce0ad6c7-6d3c-4d5f-a8f1-5aa4e0290f45)
+
+
+
+
+#### Unemployment Rate by Area
+##### Visualization: Pie Chart
+
+
+#### Analysis :
+
+The distribution of unemployment rates between rural and urban areas revealed that urban areas experienced higher unemployment rates compared to rural areas. This can be attributed to the higher concentration of service and industrial jobs in urban areas, which were more severely affected by lockdown measures and social distancing norms. Rural areas, with a greater reliance on agriculture and less dense populations, were comparatively less impacted.
