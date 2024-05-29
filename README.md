@@ -29,6 +29,6 @@ Key dimensions analyzed include job titles, employment types, company sizes, rem
 ## Key Visualizations and Findings
 1. ### Salary Trends Across Job Titles
    
-Visualization: Horizontal bar chart
+### Visualization: Horizontal bar chart
 Observation: The highest-paying roles are Principal Data Engineer, Financial Data Analyst, and Principal Data Scientist.
 Insight: Senior technical roles and those involved in data management tend to command higher salaries due to their critical importance and the specialized skills required.
