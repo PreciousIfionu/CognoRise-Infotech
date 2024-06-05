@@ -1,5 +1,8 @@
 # UNEMPLOYMENT RATE IN INDIA 
 ### (2019 - 2020)
+
+![Screenshot (150)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/d55308c4-185a-4588-9a16-0491fa8421b2)
+
 ## Introduction
 
 Hello, I'm Precious Ifionu, an intern at CognoRise Infotech. This project focuses on analyzing the unemployment rate in India during the period from 2019 to 2020. The primary objective is to uncover trends, identify regional disparities, and provide insights that can guide policy decisions and interventions.
