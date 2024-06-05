@@ -59,7 +59,7 @@ During the initial examination of the dataset, the following cleaning and manipu
 ### Visualization: Bar Chart
 ### Analysis: 
 
-This chart helps in comparing the caloric content across different cereals. Cereals like "Mueslix Crispy Blend" and "Mueslie Raisins (Dates and Almond)" have higher calorie counts compared to others.
+This chart helps in comparing the caloric content across different cereals. Cereals like "Mueslix Crispy Blend (160)" and "Mueslie Raisins 150 (Dates and Almond)" have higher calorie counts compared to others.
 
 ![Screenshot (134)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/28fe3772-253d-4a83-9d53-e1e889c51a0d)
 
@@ -68,7 +68,7 @@ This chart helps in comparing the caloric content across different cereals. Cere
 
 ### Visualization: Bar Chart
 ### Analysis: 
-Highlighting cereals such as "100% Bran" and "All Bran with Extra Fiber" which have high dietary fiber, aiding consumers in choosing high-fiber options.
+Highlighting cereals such as "All Bran with Extra Fiber (14g)"  100% Bran (10g) which have high dietary fiber, aiding consumers in choosing high-fiber options.Low-fiber cereals are "Cocoa Puffs" (1g), "Corn Flakes" (1g).
 
 ![Screenshot (136)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/7bf25cc5-d450-4b71-9b4f-5605fbbcc69f)
 
@@ -77,7 +77,7 @@ Highlighting cereals such as "100% Bran" and "All Bran with Extra Fiber" which h
 
 ### Visualization: Horizontal Bar Chart
 ### Analysis: 
-This visualization shows cereals with varying fat content, useful for those monitoring fat intake, of which 100% Natural Bran and Cinnamon Toast Crunch are the highest in Fat.While Wheaties Honey Gold is oone of the lowest in fat. All Bran with extra fiber has the lowest fat content of 0.
+This visualization shows cereals with varying fat content, useful for those monitoring fat intake, of which 100% Natural Bran(5g)  and Cinnamon Toast Crunch(3g) are the highest in Fat.While Wheaties Honey Gold is one of the lowest in fat. All Bran with extra fiber has the lowest fat content of 0g.
 
 
 ![Screenshot (137)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/accbaf4a-d097-4a2a-9cfe-058f2074ffd6)
@@ -87,7 +87,7 @@ This visualization shows cereals with varying fat content, useful for those moni
 
 ### Visualization: Line Chart
 ### Analysis: 
-Displaying the carbohydrate content helps identify cereals that might be more suitable for low-carb diets. This analysis showed "Quaker Oatmeal" and Rice Chex have the highest carbonydrate content
+Displaying the carbohydrate content helps identify cereals that might be more suitable for low-carb diets. This analysis showed "Quaker Oatmeal(67g)" and Rice Chex (23g) have the highest carbonydrate content
 
 ![Screenshot (139)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/58c00015-5c27-4035-9ea7-a4c8d21c225c)
 
@@ -96,7 +96,7 @@ Displaying the carbohydrate content helps identify cereals that might be more su
 
 ### Visualization: Area Chart
 ### Analysis: 
-Highlights cereals with high sugar content, which can be critical for consumers managing sugar intake.The Golden Crisp and Smacks are the top ranking in sugar content
+Highlights cereals with high sugar content, which can be critical for consumers managing sugar intake.The Golden Crisp (15g) and Smacks (15g) are the top ranking in sugar content
 
 ![Screenshot (138)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/4b385b68-bbbc-425d-9acd-79c575d56f76)
 
@@ -105,7 +105,7 @@ Highlights cereals with high sugar content, which can be critical for consumers 
 
 ### Visualization: Bar Chart
 ### Analysis: 
-Identifies cereals rich in protein, beneficial for consumers looking to increase protein intake. Cheerios and Special K had the highest protein content while Cap'n'crunch, cocoa puffs and some other cereals have the lowest protein content.
+Identifies cereals rich in protein, beneficial for consumers looking to increase protein intake. Cheerios (6g)  and Special K (6g) had the highest protein content while Cap'n'crunch (1g), cocoa puffs and some other cereals have the lowest protein content.
 
 
 ![Screenshot (141)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/1905089e-d7f1-44e5-a7eb-d594f9ea38aa)
