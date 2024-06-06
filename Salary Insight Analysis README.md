@@ -1,4 +1,24 @@
 # COMPREHENSIVE SALARY INSIGHT ANALYSIS
+
+### Table of Content
+
+[Introduction](#introduction)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Manipulation](#data-cleaning-and-manipulation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Summary of Data Analysis](#summary-of-data-analysis)
+
+[Key Visualizations and Findings](#key-visualizations-and-findings)
+
+[Recommendations](#recommendations)
+
+
 ![Screenshot (114)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/a782c70d-0d73-41f6-b8ff-af1c9fdedf9f)
 ![Screenshot (115)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/2d2e7dea-79ad-4a9e-bae0-0f4e4d90b8bd)
 
@@ -26,6 +46,16 @@ The data cleaning and manipulation process involved several key steps:
 - VLOOKUP: Used VLOOKUP to replace acronyms in the dataset with their full names to improve readability and comprehension during visualizatio
 
 
+## Exploratory Data Analysis
+### Key Questions Answered
+
+- What is the distribution of salaries across different job titles, experience levels, and employment types?
+- How does salary vary with experience level and company location?
+- Is there a correlation between remote ratio and salary?
+- Are there any significant differences in salaries based on company size?
+-How does the salary distribution differ between different employee residences?
+
+
 ## Summary of Data Analysis
 The analysis focused on understanding the impact of various factors on salaries within the tech industry. 
 Key dimensions analyzed include job titles, employment types, company sizes, remote work ratios, and geographic locations.
@@ -47,8 +77,8 @@ The highest-paying roles are Principal Data Engineer, Financial Data Analyst, an
 
 Senior technical roles and those involved in data management tend to command higher salaries due to their 
 critical importance and the specialized skills required.
+![Screenshot (109)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/6f6cd751-6539-4d4e-accf-a782cd942bc2)
 
-![Screenshot (111)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/9f5fa2e1-39c6-453a-bc2c-2cfb4bae8bed)
 
 2. ## Salary by Employment Type
 
@@ -59,8 +89,9 @@ Contract roles tend to have higher average salaries compared to full-time, freel
 Contract roles often offer higher pay to compensate for the lack of job security and benefits that come with full-time employment. 
 Freelancers and part-time employees tend to earn less due to the nature of their work arrangements.
 
+![Screenshot (111)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/9f5fa2e1-39c6-453a-bc2c-2cfb4bae8bed)
 
-![Screenshot (112)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/9ec3edd9-7a79-4920-abe9-1a62349c640d)
+
 
 3. ## Salary Based on Company Size and Remote Ratio
 ### Visualization: Combined bar and line chart
@@ -72,7 +103,8 @@ highest salaries but with a lower remote work ratio.
 Medium-sized companies may offer more remote work opportunities to attract talent and remain competitive, whereas large 
 companies can afford to pay higher salaries but may prefer in-office work environments for better team coordination.
 
-![Screenshot (113)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/55fa7709-aed9-4426-80fc-17a5cb9bee2e)
+![Screenshot (112)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/9ec3edd9-7a79-4920-abe9-1a62349c640d)
+
 
 4. ## Salary by Remote Ratio
 ### Visualization: Donut chart
@@ -97,8 +129,8 @@ often resulting in higher salaries to compete globally.
   flexible work environments. These roles might offer moderate salaries to balance the benefits of flexibility and the
   need for some on-site presence.
 
+![Screenshot (113)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/55fa7709-aed9-4426-80fc-17a5cb9bee2e)
 
-   ![Screenshot (117)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/7825905f-9bce-4696-9ecb-66a539d8d421)
 
 5. ## Salary by Experience Level
 ### Visualization: Line chart
@@ -110,8 +142,8 @@ Salaries decrease consistently from Executive Level to Entry Level.
 Higher experience levels command higher salaries due to the expertise, responsibility, and leadership skills required at 
 senior positions. This trend is typical in most industries, reflecting the value of experience and tenure.
 
+   ![Screenshot (117)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/7825905f-9bce-4696-9ecb-66a539d8d421)
 
-![Screenshot (118)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/b44585b2-7dc1-4a67-8055-5f7782298210)
 
 
 6. ## Salary by Company Location
@@ -124,7 +156,8 @@ industry development. Malaysia and Puerto Rico offer higher salaries due to robu
 their tech sectors. In contrast, Iran's economic challenges, including sanctions and high inflation, result in lower salaries.
 
 
-![Screenshot (119)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/d698829c-91c5-45fc-9ec2-ea1e3d775259)
+![Screenshot (118)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/b44585b2-7dc1-4a67-8055-5f7782298210)
+
 
 
 7. ## Salaries by Job Title and Remote Work Ratio
@@ -136,7 +169,8 @@ Job titles with higher remote work ratios have stable salary trends.
 Roles that can be effectively performed remotely, such as Data Scientists and Software Engineers, maintain stable salary levels,
 indicating the viability of remote work in these positions
 
-![Screenshot (120)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/72fd383b-e03a-47d2-95e4-36cf62510926)
+![Screenshot (119)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/d698829c-91c5-45fc-9ec2-ea1e3d775259)
+
 
 
 8. ## Salary Trends by Year
@@ -147,6 +181,9 @@ Steady increase in salaries over the analyzed period.
 ### Insight: 
 The tech industry is experiencing growth, reflected in rising salaries over the years. This trend underscores the increasing
 value and demand for tech talent.
+
+![Screenshot (120)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/72fd383b-e03a-47d2-95e4-36cf62510926)
+
 
 ## Recommendations
 Based on the analysis, the following recommendations are proposed:
