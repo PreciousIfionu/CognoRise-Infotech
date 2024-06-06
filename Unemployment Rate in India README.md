@@ -1,7 +1,28 @@
 # UNEMPLOYMENT RATE IN INDIA 
 ### (2019 - 2020)
 
-![Screenshot (150)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/d55308c4-185a-4588-9a16-0491fa8421b2)
+### Table of Content
+
+[Introduction](#introduction)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Columns in the Dataset](#columns-in-the-dataset)
+
+[Data Cleaning and Manipulation](#data-cleaning-and-manipulation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Summary of Data Analysis](#summary-of-data-analysis)
+
+[Key Visualizations and Findings](#key-visualizations-and-findings)
+
+[Recommendations](#recommendations)
+
+
+- ![Screenshot (150)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/d55308c4-185a-4588-9a16-0491fa8421b2)
 
 ## Introduction
 
@@ -65,8 +86,8 @@ The dataset used for this analysis was sourced from the National Sample Survey O
 
 The analysis aimed to provide a detailed understanding of the unemployment trends in India. By examining how the unemployment rate varied over time and across different regions, the study sought to identify key patterns and relationships.
 
-
-## Key Questions Addressed:
+## Exploratory Data Analysis
+### Key Questions Addressed:
 
 - Temporal Trends: How did the unemployment rate change over time?
 - Regional Disparities: Which regions experienced the highest and lowest unemployment rates?
