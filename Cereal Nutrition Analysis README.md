@@ -4,17 +4,17 @@
 
 [Introduction](#introduction)
 
-[Data Source](#data_source)
+[Data Source](#data-source)
 
-[Tools Used](#tools_used)
+[Tools Used](#tools-used)
 
-[Data Cleaning and Manipulation](#data_cleaning_and_manipulation)
+[Data Cleaning and Manipulation](#data-cleaning-and-manipulation)
 
-[Exploratory Data Analysis](#exploratory_data_analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Visualization Analysis](#visualization_analysis)
+[Visualization Analysis](#visualization-analysis)
 
-[Recommendations for Cereal Lovers](#recommendations_for_cereal_Lovers)
+[Recommendations for Cereal Lovers](#recommendations-for-cereal-lovers)
 
 [Conclusion](#conclusion)
 
