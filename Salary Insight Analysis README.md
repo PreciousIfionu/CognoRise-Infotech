@@ -62,8 +62,6 @@ Key dimensions analyzed include job titles, employment types, company sizes, rem
 
 ## Key Visualizations and Findings
 
-![Screenshot (109)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/6f6cd751-6539-4d4e-accf-a782cd942bc2)
-
 
 
 1. ## Salary Trends Across Job Titles
@@ -77,7 +75,9 @@ The highest-paying roles are Principal Data Engineer, Financial Data Analyst, an
 
 Senior technical roles and those involved in data management tend to command higher salaries due to their 
 critical importance and the specialized skills required.
-![Screenshot (109)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/6f6cd751-6539-4d4e-accf-a782cd942bc2)
+
+
+![Screenshot (175)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/e81795cd-dbec-463d-95d1-4d8a649d9f05)
 
 
 2. ## Salary by Employment Type
@@ -156,7 +156,7 @@ industry development. Malaysia and Puerto Rico offer higher salaries due to robu
 their tech sectors. In contrast, Iran's economic challenges, including sanctions and high inflation, result in lower salaries.
 
 
-![Screenshot (118)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/b44585b2-7dc1-4a67-8055-5f7782298210)
+![Screenshot (176)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/69944a80-345b-437d-ba0a-5f538404ce69)
 
 
 
