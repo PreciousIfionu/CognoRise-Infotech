@@ -18,7 +18,11 @@
 
 [Conclusion](#conclusion)
 
-![Screenshot (153)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/f7d76c1a-6ffd-4320-9f97-aeb06def1a5a)
+
+![Screenshot (163)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/42ed344d-45fe-4beb-bf90-4450d829d67c)
+
+
+![Screenshot (164)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/be08592a-9844-40cb-adaa-0b9e842b5be1)
 
 
 
@@ -60,7 +64,7 @@ During the initial examination of the dataset, the following cleaning and manipu
 
 This chart helps in comparing the caloric content across different cereals. Cereals like "Mueslix Crispy Blend (160)" and "Mueslie Raisins 150 (Dates and Almond)" have higher calorie counts compared to others.
 
-![Screenshot (134)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/a4bf65f9-dc76-4a70-ae7d-c72e388eb630)
+![Screenshot (165)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/29f8defc-be5c-4aee-b45a-cb1b422d9580)
 
 
 ### 2. Fiber Content of Cereals
@@ -69,7 +73,7 @@ This chart helps in comparing the caloric content across different cereals. Cere
 ### Analysis: 
 Highlighting cereals such as "All Bran with Extra Fiber (14g)"  100% Bran (10g) which have high dietary fiber, aiding consumers in choosing high-fiber options.Low-fiber cereals are "Cocoa Puffs" (1g), "Corn Flakes" (1g).
 
-![Screenshot (157)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/14cdaabd-31d5-4129-830b-bc128cdc7d7d)
+![Screenshot (166)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/220aa1b4-880a-4a6d-ac6f-5fcc56920b1c)
 
 
 ### 3. Fat Content of Cereals
@@ -79,7 +83,7 @@ Highlighting cereals such as "All Bran with Extra Fiber (14g)"  100% Bran (10g) 
 This visualization shows cereals with varying fat content, useful for those monitoring fat intake, of which 100% Natural Bran(5g)  and Cinnamon Toast Crunch(3g) are the highest in Fat.While Wheaties Honey Gold is one of the lowest in fat. All Bran with extra fiber has the lowest fat content of 0g.
 
 
-![Screenshot (155)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/e677a024-b596-4588-90d8-3bad19c27df6)
+![Screenshot (167)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/ce0ce2e6-3fbf-4d1c-971b-41d5f38859c7)
 
 
 ### 4. Carbohydrate Content of Cereals
@@ -88,7 +92,7 @@ This visualization shows cereals with varying fat content, useful for those moni
 ### Analysis: 
 Displaying the carbohydrate content helps identify cereals that might be more suitable for low-carb diets. This analysis showed "Quaker Oatmeal(67g)" and Rice Chex (23g) have the highest carbonydrate content
 
-![Screenshot (156)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/778a7846-abc5-4381-a30f-1851b56799f0)
+![Screenshot (169)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/c32cc353-9f7c-40d4-a79e-91d53e8d55c0)
 
 
 ### 5. Sugar Content of Cereals
@@ -97,7 +101,7 @@ Displaying the carbohydrate content helps identify cereals that might be more su
 ### Analysis: 
 Highlights cereals with high sugar content, which can be critical for consumers managing sugar intake.The Golden Crisp (15g) and Smacks (15g) are the top ranking in sugar content
 
-![Screenshot (158)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/37971556-0636-48aa-89bb-01e36268f561)
+![Screenshot (168)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/aedc8ca8-5352-4f3f-936d-1a55961596ca)
 
 
 ### 6.Protein Content of Cereals
@@ -107,7 +111,7 @@ Highlights cereals with high sugar content, which can be critical for consumers 
 Identifies cereals rich in protein, beneficial for consumers looking to increase protein intake. Cheerios (6g)  and Special K (6g) had the highest protein content while Cap'n'crunch (1g), cocoa puffs and some other cereals have the lowest protein content.
 
 
-![Screenshot (159)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/40b81ad5-8c04-4bda-96a6-5501d40a5de7)
+![Screenshot (171)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/384aad54-cbdf-47b9-9890-dea7f68d3d51)
 
 
 ### 7. Rating Based on Type and Sugar Content
