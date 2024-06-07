@@ -20,7 +20,6 @@
 
 
 ![Screenshot (114)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/a782c70d-0d73-41f6-b8ff-af1c9fdedf9f)
-![Screenshot (115)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/2d2e7dea-79ad-4a9e-bae0-0f4e4d90b8bd)
 
 
 ## Introduction
@@ -160,20 +159,7 @@ their tech sectors. In contrast, Iran's economic challenges, including sanctions
 
 
 
-7. ## Salaries by Job Title and Remote Work Ratio
-### Visualization: Line chart
-### Observation: 
-Job titles with higher remote work ratios have stable salary trends.
-
-### Insight: 
-Roles that can be effectively performed remotely, such as Data Scientists and Software Engineers, maintain stable salary levels,
-indicating the viability of remote work in these positions
-
-![Screenshot (119)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/d698829c-91c5-45fc-9ec2-ea1e3d775259)
-
-
-
-8. ## Salary Trends by Year
+7. ## Salary Trends by Year
 ### Visualization: Line chart
 ### Observation: 
 Steady increase in salaries over the analyzed period.
@@ -182,7 +168,9 @@ Steady increase in salaries over the analyzed period.
 The tech industry is experiencing growth, reflected in rising salaries over the years. This trend underscores the increasing
 value and demand for tech talent.
 
-![Screenshot (120)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/72fd383b-e03a-47d2-95e4-36cf62510926)
+![Screenshot (179)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/1a9e02c8-00f7-4777-b30d-2f69b81ab27c)
+
+
 
 
 ## Recommendations
