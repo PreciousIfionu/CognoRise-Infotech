@@ -19,7 +19,7 @@
 [Recommendations](#recommendations)
 
 
-![Screenshot (114)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/a782c70d-0d73-41f6-b8ff-af1c9fdedf9f)
+![Screenshot (199)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/0b88b914-12be-4953-9c21-f5a23209abaa)
 
 
 ## Introduction
@@ -76,19 +76,19 @@ Senior technical roles and those involved in data management tend to command hig
 critical importance and the specialized skills required.
 
 
-![Screenshot (175)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/e81795cd-dbec-463d-95d1-4d8a649d9f05)
+![Screenshot (201)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/c67128f5-2060-432a-a6bc-bbd15fa485e9)
 
 
 2. ## Salary by Employment Type
 
-### Visualization: Bar chart
+### Visualization: Funnel chart
 ### Observation: 
 Contract roles tend to have higher average salaries compared to full-time, freelancer, and part-time roles.
 ### Insight: 
 Contract roles often offer higher pay to compensate for the lack of job security and benefits that come with full-time employment. 
 Freelancers and part-time employees tend to earn less due to the nature of their work arrangements.
 
-![Screenshot (111)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/9f5fa2e1-39c6-453a-bc2c-2cfb4bae8bed)
+![Screenshot (202)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/36e24ae8-314a-4c28-b0cb-df0adb5b35d8)
 
 
 
@@ -102,7 +102,7 @@ highest salaries but with a lower remote work ratio.
 Medium-sized companies may offer more remote work opportunities to attract talent and remain competitive, whereas large 
 companies can afford to pay higher salaries but may prefer in-office work environments for better team coordination.
 
-![Screenshot (112)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/9ec3edd9-7a79-4920-abe9-1a62349c640d)
+![Screenshot (203)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/ee5084a2-99e5-411d-82ac-5dd399d75d2f)
 
 
 4. ## Salary by Remote Ratio
@@ -128,7 +128,7 @@ often resulting in higher salaries to compete globally.
   flexible work environments. These roles might offer moderate salaries to balance the benefits of flexibility and the
   need for some on-site presence.
 
-![Screenshot (113)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/55fa7709-aed9-4426-80fc-17a5cb9bee2e)
+![Screenshot (204)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/7b7d755e-5354-4ef0-83bc-d430fb523383)
 
 
 5. ## Salary by Experience Level
@@ -141,7 +141,7 @@ Salaries decrease consistently from Executive Level to Entry Level.
 Higher experience levels command higher salaries due to the expertise, responsibility, and leadership skills required at 
 senior positions. This trend is typical in most industries, reflecting the value of experience and tenure.
 
-   ![Screenshot (117)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/7825905f-9bce-4696-9ecb-66a539d8d421)
+![Screenshot (205)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/c5410c6e-9ec9-4ade-9d87-e47b7f357ea7)
 
 
 
@@ -155,7 +155,7 @@ industry development. Malaysia and Puerto Rico offer higher salaries due to robu
 their tech sectors. In contrast, Iran's economic challenges, including sanctions and high inflation, result in lower salaries.
 
 
-![Screenshot (176)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/69944a80-345b-437d-ba0a-5f538404ce69)
+![Screenshot (206)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/3589f61a-6e1d-4955-8b3d-e838cb7b4768)
 
 
 
@@ -168,7 +168,7 @@ Steady increase in salaries over the analyzed period.
 The tech industry is experiencing growth, reflected in rising salaries over the years. This trend underscores the increasing
 value and demand for tech talent.
 
-![Screenshot (179)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/1a9e02c8-00f7-4777-b30d-2f69b81ab27c)
+![Screenshot (207)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/a02ffe1b-ab2b-4500-96c0-54a98576f06d)
 
 
 
