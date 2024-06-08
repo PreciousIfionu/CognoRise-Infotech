@@ -26,7 +26,7 @@
 
 ## Introduction
 
-Hello, I'm Precious Ifionu, an intern at CognoRise Infotech. This project focuses on analyzing the unemployment rate in India during the period from 2019 to 2020. The primary objective is to uncover trends, identify regional disparities, and provide insights that can guide policy decisions and interventions.
+This project focuses on analyzing the unemployment rate in India during the period from 2019 to 2020. The primary objective is to uncover trends, identify regional disparities, and provide insights that can guide policy decisions and interventions.
 
 ## Data Source
 The dataset used for this analysis was sourced from the National Sample Survey Office (NSSO), India. It includes comprehensive data on the unemployment rate, employment rate, labor participation rate, and demographic details across various regions in India.
@@ -106,7 +106,7 @@ The labor participation rate fluctuated significantly between July 2019 and May 
 
 
 
-![Screenshot (97)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/7e856ed2-ca8a-4678-8e1f-487b454cb927)
+![Screenshot (208)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/b808a9f6-97fb-44e7-a3d0-23938c44a8ca)
 
 
 
@@ -122,7 +122,7 @@ The unemployment rate exhibited a sharp increase at the beginning of 2020, corre
 
 
 
-![Screenshot (100)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/aeeddba3-ec26-43da-82d9-a92d5e714d38)
+![Screenshot (209)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/ad477b78-4f21-4328-bf8a-e6e8c87658a7)
 
 
 
@@ -138,7 +138,7 @@ This visualization integrates the total estimated number of employed individuals
 
 
 
-![Screenshot (101)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/ce0ad6c7-6d3c-4d5f-a8f1-5aa4e0290f45)
+![Screenshot (210)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/92b73445-7930-4e3f-9b64-d02b5f2af1a7)
 
 
 
@@ -151,7 +151,7 @@ This visualization integrates the total estimated number of employed individuals
 The distribution of unemployment rates between rural and urban areas revealed that urban areas experienced higher unemployment rates compared to rural areas. This can be attributed to the higher concentration of service and industrial jobs in urban areas, which were more severely affected by lockdown measures and social distancing norms. Rural areas, with a greater reliance on agriculture and less dense populations, were comparatively less impacted.
 
 
-![Screenshot (146)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/3aa6d7b3-fdff-4d2b-8b58-15f3ebef4e5a)
+![Screenshot (212)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/378fe2c9-1729-4e13-8dbc-8bd6b1164ec9)
 
 
 5. ## Unemployment Rate by Region
@@ -160,7 +160,7 @@ The distribution of unemployment rates between rural and urban areas revealed th
 Significant regional disparities in unemployment rates were observed. Regions such as Tripura, Haryana, Jharkhand, Bihar showed higher unemployment rates, likely due to their large urban populations and reliance on industries heavily impacted by the pandemic. In contrast, states like Puducherry, Kerala, Tamil Nadu had relatively lower unemployment rates, potentially due to their higher rural populations and greater engagement in agriculture, which was less affected by the pandemic.
 
 
-![Screenshot (147)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/f5794a88-9dcb-453f-9d0a-cc358ef6841a)
+![Screenshot (213)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/da6f693c-6630-4cd0-a5f8-9a239b986c29)
 
 
 6. ## Estimated Employed by Region
@@ -169,7 +169,7 @@ Significant regional disparities in unemployment rates were observed. Regions su
 
    The treemap visualization displays the average number of estimated employed individuals by region in India. Each block represents a region, with the size of the block proportional to the number of employed individuals.Uttar Pradesh has the largest block, indicating it has the highest number of employed individuals (Average of 28.09M people employed) reason being that Uttar Pradesh is the most populous state in India, which correlates with a higher number of employed individuals. Bihar has a significant number of employed individuals, being the second largest block with an average of 12.37 million individuals employed.Bihar has a large population, which contributes to its high employment numbers despite lower economic development compared to some other states.
 
-   ![Screenshot (149)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/52e95ba8-0919-4d1a-bff4-4cdc10b2405d)
+![Screenshot (214)](https://github.com/PreciousIfionu/CognoRise-Infotech/assets/166953936/5b1b42b0-e1fb-4f8f-89d2-434acb9c2357)
 
 
 ## Recommendations
